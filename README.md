@@ -7,3 +7,4 @@
 <img width="1350" height="695" alt="EMAIL-MKT---JORNADA_06" src="https://github.com/user-attachments/assets/7727f7df-2a1e-4212-928d-90ffe85d78c2" />
 <img width="1350" height="656" alt="EMAIL-MKT---JORNADA_05" src="https://github.com/user-attachments/assets/b0a08664-1c8f-47a1-af75-6afd86ad6c78" />
 
+<img width="1350" height="422" alt="EMAIL-MKT---JORNADA_04" src="https://github.com/user-attachments/assets/fea573d5-a6a0-44f1-8f8a-16444ccbc378" />
